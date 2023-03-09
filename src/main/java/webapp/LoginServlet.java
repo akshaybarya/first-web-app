@@ -9,12 +9,12 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /*
- * Browser sends Http Request to Web Server
+ * Browser sends HTTP Request to Web Server
  * 
  * Code in Web Server => Input:HttpRequest, Output: HttpResponse
  * JEE with Servlets
  * 
- * Web Server responds with Http Response
+ * Web Server responds with HTTP Response
  */
 
 //Java Platform, Enterprise Edition (Java EE) JEE6
